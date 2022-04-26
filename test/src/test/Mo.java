@@ -1,9 +1,9 @@
 package test;
 
-public class Qq {
+public class Mo {
 
 	public static void main(String[] args) {
-		System.out.println("ho");
+		System.out.println("hello Mo");
 
 	}
 
